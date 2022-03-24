@@ -1,0 +1,135 @@
+2022-01-20T06:37:10.110965Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2022-01-20T06:37:10.112049Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-01-20T06:37:10.112055Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2022-01-20T06:37:10.112069Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2022-01-20T06:37:10.112372Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2022-01-20T06:37:10.112397Z 0 [Note] C:\Users\Admin\Documents\usbwebserver/mysql/bin/mysqld_usbwv8.exe (mysqld 5.7.29) starting as process 7752 ...
+2022-01-20T06:37:10.112898Z 0 [ERROR] Error message file 'C:\Users\Admin\Documents\usbwebserver\mysql\share\english\errmsg.sys' had only 886 error messages,
+                    but it should contain at least 1120 error messages.
+                    Check that the above file is the right version for                     this program!
+2022-01-20T06:37:10.126308Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-01-20T06:37:10.126694Z 0 [Note] InnoDB: Uses event mutexes
+2022-01-20T06:37:10.126937Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2022-01-20T06:37:10.127339Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-01-20T06:37:10.127987Z 0 [Note] InnoDB: Number of pools: 1
+2022-01-20T06:37:10.128367Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2022-01-20T06:37:10.130507Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-01-20T06:37:10.135574Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-01-20T06:37:10.173153Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-01-20T06:37:10.174849Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2744041
+2022-01-20T06:37:10.175219Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2744050
+2022-01-20T06:37:10.175614Z 0 [Note] InnoDB: Database was not shutdown normally!
+2022-01-20T06:37:10.175920Z 0 [Note] InnoDB: Starting crash recovery.
+2022-01-20T06:37:10.348798Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-01-20T06:37:10.349164Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-01-20T06:37:10.349737Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-01-20T06:37:10.357390Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-01-20T06:37:10.362706Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2022-01-20T06:37:10.363167Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2022-01-20T06:37:10.363716Z 0 [Note] InnoDB: Waiting for purge to start
+2022-01-20T06:37:10.422042Z 0 [Note] InnoDB: 5.7.29 started; log sequence number 2744050
+2022-01-20T06:37:10.422679Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Documents\usbwebserver\mysql\data\ib_buffer_pool
+2022-01-20T06:37:10.422776Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2022-01-20T06:37:10.433788Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2022-01-20T06:37:10.434564Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2022-01-20T06:37:10.436619Z 0 [Note] InnoDB: Buffer pool(s) load completed at 220120  0:37:10
+2022-01-20T06:37:10.436736Z 0 [Warning] CA certificate ca.pem is self signed.
+2022-01-20T06:37:10.437669Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2022-01-20T06:37:10.439879Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-01-20T06:37:10.440327Z 0 [Note] IPv6 is available.
+2022-01-20T06:37:10.440545Z 0 [Note]   - '::' resolves to '::';
+2022-01-20T06:37:10.440851Z 0 [Note] Server socket created on IP: '::'.
+2022-01-20T06:37:10.460732Z 0 [Note] Event Scheduler: Loaded 0 events
+2022-01-20T06:37:10.461115Z 0 [Note] 
+2022-01-20T07:27:35.070240Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2022-01-20T07:27:35.070350Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-01-20T07:27:35.070357Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2022-01-20T07:27:35.070378Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2022-01-20T07:27:35.070761Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2022-01-20T07:27:35.070777Z 0 [Note] C:\Users\Admin\Documents\usbwebserver/mysql/bin/mysqld_usbwv8.exe (mysqld 5.7.29) starting as process 4908 ...
+2022-01-20T07:27:35.076766Z 0 [ERROR] Error message file 'C:\Users\Admin\Documents\usbwebserver\mysql\share\english\errmsg.sys' had only 886 error messages,
+                    but it should contain at least 1120 error messages.
+                    Check that the above file is the right version for                     this program!
+2022-01-20T07:27:35.092430Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-01-20T07:27:35.092813Z 0 [Note] InnoDB: Uses event mutexes
+2022-01-20T07:27:35.093052Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2022-01-20T07:27:35.093451Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-01-20T07:27:35.093989Z 0 [Note] InnoDB: Number of pools: 1
+2022-01-20T07:27:35.094326Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2022-01-20T07:27:35.096411Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-01-20T07:27:35.101487Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-01-20T07:27:35.147660Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-01-20T07:27:35.149363Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2751506
+2022-01-20T07:27:35.149750Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2751515
+2022-01-20T07:27:35.150161Z 0 [Note] InnoDB: Database was not shutdown normally!
+2022-01-20T07:27:35.150474Z 0 [Note] InnoDB: Starting crash recovery.
+2022-01-20T07:27:35.377879Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-01-20T07:27:35.378258Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-01-20T07:27:35.378877Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-01-20T07:27:35.384773Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-01-20T07:27:35.389410Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2022-01-20T07:27:35.389868Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2022-01-20T07:27:35.390410Z 0 [Note] InnoDB: Waiting for purge to start
+2022-01-20T07:27:35.455123Z 0 [Note] InnoDB: 5.7.29 started; log sequence number 2751515
+2022-01-20T07:27:35.455813Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2022-01-20T07:27:35.455829Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Documents\usbwebserver\mysql\data\ib_buffer_pool
+2022-01-20T07:27:35.470767Z 0 [Note] InnoDB: Buffer pool(s) load completed at 220120  1:27:35
+2022-01-20T07:27:35.480944Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2022-01-20T07:27:35.481500Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2022-01-20T07:27:35.491411Z 0 [Warning] CA certificate ca.pem is self signed.
+2022-01-20T07:27:35.491880Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2022-01-20T07:27:35.498736Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-01-20T07:27:35.499309Z 0 [Note] IPv6 is available.
+2022-01-20T07:27:35.499537Z 0 [Note]   - '::' resolves to '::';
+2022-01-20T07:27:35.499839Z 0 [Note] Server socket created on IP: '::'.
+2022-01-20T07:27:36.015362Z 0 [Note] Event Scheduler: Loaded 0 events
+2022-01-20T07:27:36.015862Z 0 [Note] 
+2022-01-20T07:44:15.548073Z 121 [Note] 
+2022-01-20T07:44:43.033761Z 122 [Note] 
+2022-01-20T07:45:15.414908Z 124 [Note] Unknown error 1049
+2022-01-20T07:45:16.273086Z 125 [Note] Unknown error 1049
+2022-01-20T07:45:41.925959Z 126 [Note] Unknown error 1049
+2022-01-20T07:46:00.016166Z 128 [Note] Unknown error 1049
+2022-01-24T06:34:36.361326Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2022-01-24T06:34:36.361992Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-01-24T06:34:36.361997Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2022-01-24T06:34:36.362013Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2022-01-24T06:34:36.362577Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2022-01-24T06:34:36.362603Z 0 [Note] C:\Users\Admin\Documents\Projects\usbwebserver/mysql/bin/mysqld_usbwv8.exe (mysqld 5.7.29) starting as process 18520 ...
+2022-01-24T06:34:36.367968Z 0 [ERROR] Error message file 'C:\Users\Admin\Documents\Projects\usbwebserver\mysql\share\english\errmsg.sys' had only 886 error messages,
+                    but it should contain at least 1120 error messages.
+                    Check that the above file is the right version for                     this program!
+2022-01-24T06:34:36.385808Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-01-24T06:34:36.386217Z 0 [Note] InnoDB: Uses event mutexes
+2022-01-24T06:34:36.386474Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2022-01-24T06:34:36.386886Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-01-24T06:34:36.387545Z 0 [Note] InnoDB: Number of pools: 1
+2022-01-24T06:34:36.387943Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2022-01-24T06:34:36.390401Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-01-24T06:34:36.395751Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-01-24T06:34:36.435648Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-01-24T06:34:36.437338Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2775743
+2022-01-24T06:34:36.437737Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2775752
+2022-01-24T06:34:36.438160Z 0 [Note] InnoDB: Database was not shutdown normally!
+2022-01-24T06:34:36.438485Z 0 [Note] InnoDB: Starting crash recovery.
+2022-01-24T06:34:36.743561Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-01-24T06:34:36.743968Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-01-24T06:34:36.744596Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-01-24T06:34:36.758004Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-01-24T06:34:36.763353Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2022-01-24T06:34:36.763846Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2022-01-24T06:34:36.764470Z 0 [Note] InnoDB: Waiting for purge to start
+2022-01-24T06:34:36.822241Z 0 [Note] InnoDB: 5.7.29 started; log sequence number 2775752
+2022-01-24T06:34:36.822897Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Documents\Projects\usbwebserver\mysql\data\ib_buffer_pool
+2022-01-24T06:34:36.823030Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2022-01-24T06:34:36.838916Z 0 [Note] InnoDB: Buffer pool(s) load completed at 220124  0:34:36
+2022-01-24T06:34:36.848033Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2022-01-24T06:34:36.848628Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2022-01-24T06:34:36.859104Z 0 [Warning] CA certificate ca.pem is self signed.
+2022-01-24T06:34:36.859594Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2022-01-24T06:34:36.868765Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-01-24T06:34:36.869271Z 0 [Note] IPv6 is available.
+2022-01-24T06:34:36.869506Z 0 [Note]   - '::' resolves to '::';
+2022-01-24T06:34:36.869803Z 0 [Note] Server socket created on IP: '::'.
+2022-01-24T06:34:37.493718Z 0 [Note] Event Scheduler: Loaded 0 events
+2022-01-24T06:34:37.494158Z 0 [Note] 
